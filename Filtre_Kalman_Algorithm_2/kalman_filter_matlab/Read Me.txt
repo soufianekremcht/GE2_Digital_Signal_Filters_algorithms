@@ -1,0 +1,3 @@
+Filtre Kalman pour reduire les Bruits de signal
+
+Realisé en Matlab par Soufiane Kremcht et Youssef elmrabet
